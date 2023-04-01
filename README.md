@@ -11,6 +11,6 @@
 # Notebook
 You can check out the notebook on kaggle to run the code step by step. [Comment Hate Prediction](https://www.kaggle.com/code/apurvayadav29/comment-hate-prediction#Neural-Network)
 
-# Reference  
+# Reference   
 I followed Nicholas Renotte Tutorial on YouTube. [Build a Comment Toxicity Model with Deep Learning and Python](https://youtu.be/ZUqB-luawZg)
 ---
